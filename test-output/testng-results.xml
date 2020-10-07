@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15209" started-at="2019-08-26T01:54:22Z" finished-at="2019-08-26T01:54:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15209" started-at="2019-08-26T01:54:22Z" finished-at="2019-08-26T01:54:37Z">
+      <class name="TestNG.userauth">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.userauth@4501b7af]" name="launch" is-config="true" duration-ms="12928" started-at="2019-08-26T01:54:22Z" finished-at="2019-08-26T01:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyauth()[pri:0, instance:TestNG.userauth@4501b7af]" name="verifyauth" duration-ms="2124" started-at="2019-08-26T01:54:35Z" finished-at="2019-08-26T01:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyauth -->
+      </class> <!-- TestNG.userauth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
